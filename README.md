@@ -15,7 +15,7 @@ Welcome to the Forkify repository, the final project of a Javascript course on U
 1. Clone the repository to yuor computer:
 
 ```sh
-git clone https://github.com/l-esposti/Forkify.git
+git clone https://github.com/LeonardoEsposti/Forkify.git
 ```
 
 2. Install all needed dependencies:
