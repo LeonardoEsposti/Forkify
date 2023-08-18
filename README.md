@@ -18,19 +18,7 @@ Welcome to the Forkify repository, the final project of a Javascript course on U
 git clone https://github.com/LeonardoEsposti/Forkify.git
 ```
 
-2. Install all needed dependencies:
-
-```sh
-npm install
-```
-
-3. Run the following NPM script:
-
-```sh
-npm run start
-```
-
-4. Open link.
+2. Open the "index.html" file in your preferred web browser.
 
 ## Contributions
 
